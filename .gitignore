@@ -1,0 +1,14 @@
+# Fichiers compilés et dossiers de build
+/bin/
+/out/
+/target/
+*.class
+
+# Répertoires IDE (VS Code, IntelliJ, etc.)
+.vscode/
+.idea/
+*.iml
+
+# Fichiers système
+.DS_Store
+Thumbs.db
